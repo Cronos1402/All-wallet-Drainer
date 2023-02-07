@@ -1,6 +1,8 @@
 # All-wallet-Drainer
 I have upgraded the draining script to drain any wallet on BEP20 ERC20
 
+#Public Repo is only for reference. Contact Cronos for All Scripts
+
 # ` ALL IN ONE DRAINER `
 # ` PRICE IS CONSTANTLY CHANGING. MESSAGE ME ON TELEGRAM TO GET FULL PRICE OF FRONTEND AND BACKEND. `
  ### ⚠️**Message us on [Telegram](https://t.me/cronos1402) to buy the lastest version**
