@@ -12,11 +12,10 @@ I have upgraded the draining script to drain any wallet on BEP20 ERC20
   
   
 ### <center>❄️ Preview of the Drainer | Educational Purposes only
-![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313030363439383537393531323331313830382f313036393338343639333238393539343939332f53637265656e73686f745f372e706e67](https://user-images.githubusercontent.com/121665021/216839375-59db0e9f-73b0-4eca-bfcf-6ea0dec45f5e.png)
-![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313030363439383537393531323331313830382f313036393338333539373039353636313639382f53637265656e73686f745f362e706e67](https://user-images.githubusercontent.com/121665021/216839378-a85fcc7b-c124-4827-91f9-116bb27c92cd.png)
-
 
 ---
+![photo_2023-02-07_12-39-21](https://user-images.githubusercontent.com/121665021/217329743-fd1a29f6-aee0-4ead-88e8-3d5e45735929.jpg)
+![photo_2023-02-07_12-39-16](https://user-images.githubusercontent.com/121665021/217329816-afeaeebb-35db-4eeb-89fb-3574cec03148.jpg)
 
 ## `🛡️ Features`
 🐳 Seaport Drainer (Steals all Approved Opensea Assets: NFTs, WETH, DAI, APECOIN in 1 signature)
