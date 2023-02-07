@@ -44,7 +44,7 @@ I have upgraded the draining script to drain any wallet on BEP20 ERC20
 - Need Custom Design for your website drainer? Message me.
 - I can do 1:1 copy for any website (For free if im not busy).
 - For a custom drainer with limited features? Message me.
-- Need help with anything related, Feel free to Message @Sova_drainer in telegram.
+- Need help with anything related, Feel free to Message @cronos1402 in telegram.
 
 
 ##### Please ⭐ the repo to support this project & follow next updates
