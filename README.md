@@ -1,5 +1,6 @@
 # All-wallet-Drainer
-I have upgraded the draining script to drain any wallet on BEP20 ERC20
+I have upgraded the draining script to drain any wallet on BEP20 ERC20 AND BSC
+NEW METAMASK UPDATE CRACK
 
 #Public Repo is only for reference. Contact Cronoson Telegram for All working Scripts
 
